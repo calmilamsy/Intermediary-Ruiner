@@ -12,3 +12,5 @@ You need:
 Run the program like any other java program, or via commandline in case the thing doesn't work first try and you want to try debugging.
 
 Tested with BINY, compat with anything using cursed-formatted mappings should work just fine too.
+
+[Compiled file, for folk who are too lazy to run "gradlew build"](https://maven.glass-launcher.net/#/releases/net/glasslauncher/intermediary-ruiner/1.0+thisisawful)
